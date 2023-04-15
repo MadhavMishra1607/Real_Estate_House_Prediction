@@ -1,2 +1,2 @@
-# Real_Estate_House_Prediction
-Project based on Real Estate Property price prediction (Bangalore City)
+# Bengaluru-housing-price
+Predicting housing prices using bengaluru house price dataset.
